@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+.parent {
+  color: grey;
+  border: 1px solid black;
+}
+.digit {
+  font-size: 24px;
+}
+.days {
+  font-size: 12px;
+}
+.logos {
+  font-size: 36px;
+}
+.temperature {
+  font-size: 12px;
+}
+
+#celsius,
+#fahrenheit {
+  cursor: pointer;
+}
+
+#temperature {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+#description,
+.wind {
+  margin-top: -1rem;
+}
