@@ -33,3 +33,7 @@ body {
 .wind {
   margin-top: -1rem;
 }
+
+.netlify {
+  text-align: center;
+}
