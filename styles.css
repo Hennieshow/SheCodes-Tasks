@@ -37,3 +37,8 @@ body {
 .netlify {
   text-align: center;
 }
+
+#gitLink {
+  text-align: center;
+  padding-top: 10px;
+}
